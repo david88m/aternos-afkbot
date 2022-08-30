@@ -1,7 +1,6 @@
 {
-	//"host": "david88m.aternos.me",
-	"host": "david88mcreativa.aternos.me",
-	//"port": "29855",
+	"host": "david88m.aternos.me",
+	"port": "29855",
 	"port": "25831",
 	"username": "Bertoldo",
 	"logger": [ true
